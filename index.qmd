@@ -1,0 +1,169 @@
+---
+title: "Explorando las etapas esenciales del desarrollo de la Inteligencia Artificial"
+# subtitle: "Inteligencia Artificial"
+date: "today"
+author: "Lcdo. Diego Medardo Saavedra García. Mgtr"
+lang: "es"
+format:
+    revealjs:
+        #chalkboard: 
+        buttons: false
+        toc: true
+        incremental: false
+        slide-number: true
+        preview-links: auto
+        logo: img/logo.png
+        footer: <https://www.espe.edu.ec>
+        theme: dark
+        makeindex: true
+        multiplex: true
+        transition: fade
+        chalkboard: true #Pizarra
+        auto-stretch: true
+        smaller: false
+        scrollable: true
+        menu: true 
+        execute: false
+        executeCode: true
+    pdf:
+        toc: true
+        number-sections: true
+        colorlinks: true
+    html:     
+        code-fold: true
+        html-math-method: katex
+        multiplex: true
+        transition: fade
+        auto-stretch: false
+bibliography: Bibliografia.bib
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl"
+editor_options: 
+    chunk_output_type: console
+---
+
+# Explorando las etapas esenciales del desarrollo de la Inteligencia Artificial.
+
+## Summer byte.
+
+![](images/Summerbyte.jpg){fig-align="center"}
+
+## Introducción a la Inteligencia Artificial (IA)
+
+::: incremental
+-   **Definición:** La IA es la simulación de procesos de inteligencia humana por máquinas, especialmente sistemas de computadoras. (Russell & Norvig, 2010).
+
+-   **Aplicabilidad:** La IA se utiliza en medicina, finanzas, transporte y más.
+:::
+
+## Tipos de Inteligencia Artificial
+
+::: incremental
+- IA débil vs. IA fuerte: Diferencia en la autonomía y conciencia
+
+    - La diferencia fundamental entre IA débil y IA fuerte radica en su nivel de autonomía y conciencia. Estos términos se refieren a la capacidad de la inteligencia artificial para realizar tareas y su nivel de comprensión y conciencia del mundo que la rodea.
+
+- En resumen, la diferencia entre IA débil y IA fuerte radica en la amplitud de las tareas que pueden realizar y su capacidad para comprender el mundo que los rodea. Mientras que la IA débil se enfoca en tareas específicas, la IA fuerte representa una inteligencia más general y autónoma, aunque su implementación sigue siendo un desafío significativo.
+
+- IA general vs. IA especializada: Generalidad frente a tareas específicas
+
+    - La distinción entre IA general y IA especializada se centra en el alcance de las tareas que puede abordar un sistema de inteligencia artificial. La IA general se refiere a la capacidad de un sistema para realizar cualquier tarea que un humano pueda realizar, mientras que la IA especializada se refiere a la capacidad de un sistema para realizar una tarea específica.
+
+- Es importante destacar que la IA general todavía se encuentra en una etapa de investigación y desarrollo, y su creación representa un desafío técnico y conceptual significativo. Mientras tanto, la mayoría de los sistemas de inteligencia artificial en uso son especializados y están diseñados para tareas específicas, lo que implica la necesidad de programarlos o entrenarlos de manera específica para cada función deseada.
+:::
+
+## Principales enfoques y técnicas de IA.
+
+::: incremental
+-   **Aprendizaje automático:** Algoritmos que permiten a las máquinas aprender patrones a partir de datos (Mitchell, 1997).
+
+-   **Redes neuronales y Deep Learning:** Simulación de redes neuronales biológicas y capas de abstracción (LeCun, Bengio, & Hinton, 2015).
+
+-   **Procesamiento del lenguaje natural (NLP):** Habilitar a las máquinas para entender y responder al lenguaje humano (Jurafsky & Martin, 2019).
+
+-   **Visión por computadora:** Permitir a las máquinas "ver" y reconocer objetos (Szeliski, 2010).
+:::
+
+## Etapas generales del desarrollo de la IA.
+
+::: incremental
+-   **Recopilación y preparación de datos:** Obtención y limpieza de datos relevantes para el problema.
+
+-   **Entrenamiento del modelo:** Utilización de algoritmos de aprendizaje automático para entrenar el modelo con los datos.
+
+-   **Evaluación y ajuste del rendimiento:** Medición del rendimiento del modelo y ajustes para mejorar su precisión.
+
+-   **Implementación y despliegue:** Integración del modelo entrenado en una aplicación o sistema en producción.
+:::
+
+## Ejemplo de etapas del desarrollo de la IA.
+
+::: incremental
+
+- Regresión lineal: Predicción de valores numéricos.
+
+- Regresión logística: Clasificación binaria.
+
+- K-Nearest Neighbors (KNN): Clasificación y regresión basada en vecinos cercanos.
+
+- Máquinas de Soporte Vectorial (SVM): Clasificación y regresión.
+
+- Árboles de Decisión: Clasificación y regresión.
+
+- Random Forest: Clasificación y regresión basada en conjuntos de árboles.
+
+- Naive Bayes: Clasificación y filtrado de spam.
+
+- Redes Neuronales: Reconocimiento de imágenes, procesamiento del lenguaje natural, etc.
+
+- K-Means: Agrupación de datos.
+
+- Análisis de Componentes Principales (PCA): Reducción de dimensionalidad.
+
+- Aprendizaje por Refuerzo: Juegos, control de robots, optimización.
+
+- Gradient Boosting: Clasificación y regresión basada en árboles.
+
+:::
+
+## Desarrollo de una actividad práctica.
+
+::: incremental
+Crearemos un modelo simple de clasificación de imágenes utilizando redes neuronales y Deep Learning.
+
+1.  Abre Google Colab (https://colab.research.google.com/).
+
+2.  Crea un nuevo cuaderno ("Notebook") y nómbralo según tu preferencia.
+[Ejemplo Práctico](https://colab.research.google.com/drive/1taWPDuotLeVdK9yh0K-GGwefDWyGI9JY?usp=sharing)
+:::
+
+## Conclusión
+
+::: incremental
+-   La IA es una tecnología revolucionaria que impacta diversas industrias y campos.
+-   Su desarrollo involucra etapas cruciales para lograr soluciones efectivas.
+-   La ética y la responsabilidad son fundamentales en su aplicación.
+:::
+
+## Investigación en IA.
+
+::: incremental
+Se necesita mayor investigación en **Desarrollo de Software** con **Inteligencia Artificial**
+
+-   "La IA abre puertas a nuevas posibilidades en la resolución de problemas".
+
+-   "Contribuir a la sociedad con soluciones inteligentes y éticas".
+:::
+
+## Preguntas y Respuestas
+
+## Gracias
+
+::: incremental
+¡Gracias por asistir a esta charla, espero que les haya sido útil e inspirador.
+
+¡Continúen explorando y desarrollando tecnologías que impulsen el progreso!
+:::
+
+## Referencias bibliográficas
+
+Russell, S. J., & Norvig, P. (2010). Artificial Intelligence: A Modern Approach (3rd ed.). Prentice Hall. Mitchell, T. M. (1997). Machine Learning. McGraw Hill. LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep Learning. Nature, 521(7553), 436-444. Jurafsky, D., & Martin, J. H. (2019). Speech and Language Processing (3rd ed.). Prentice Hall. Szeliski, R. (2010). Computer Vision: Algorithms and Applications. Springer.
