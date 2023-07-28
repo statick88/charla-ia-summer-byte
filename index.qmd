@@ -45,7 +45,7 @@ editor_options:
 
 ## Summer byte.
 
-![](images/Summerbyte.jpg){fig-align="center"}
+![](images/img.jpg)
 
 ## Introducción a la Inteligencia Artificial (IA)
 
@@ -58,17 +58,17 @@ editor_options:
 ## Tipos de Inteligencia Artificial
 
 ::: incremental
-- IA débil vs. IA fuerte: Diferencia en la autonomía y conciencia
+-   IA débil vs. IA fuerte: Diferencia en la autonomía y conciencia
 
-    - La diferencia fundamental entre IA débil y IA fuerte radica en su nivel de autonomía y conciencia. Estos términos se refieren a la capacidad de la inteligencia artificial para realizar tareas y su nivel de comprensión y conciencia del mundo que la rodea.
+    -   La diferencia fundamental entre IA débil y IA fuerte radica en su nivel de autonomía y conciencia. Estos términos se refieren a la capacidad de la inteligencia artificial para realizar tareas y su nivel de comprensión y conciencia del mundo que la rodea.
 
-- En resumen, la diferencia entre IA débil y IA fuerte radica en la amplitud de las tareas que pueden realizar y su capacidad para comprender el mundo que los rodea. Mientras que la IA débil se enfoca en tareas específicas, la IA fuerte representa una inteligencia más general y autónoma, aunque su implementación sigue siendo un desafío significativo.
+-   En resumen, la diferencia entre IA débil y IA fuerte radica en la amplitud de las tareas que pueden realizar y su capacidad para comprender el mundo que los rodea. Mientras que la IA débil se enfoca en tareas específicas, la IA fuerte representa una inteligencia más general y autónoma, aunque su implementación sigue siendo un desafío significativo.
 
-- IA general vs. IA especializada: Generalidad frente a tareas específicas
+-   IA general vs. IA especializada: Generalidad frente a tareas específicas
 
-    - La distinción entre IA general y IA especializada se centra en el alcance de las tareas que puede abordar un sistema de inteligencia artificial. La IA general se refiere a la capacidad de un sistema para realizar cualquier tarea que un humano pueda realizar, mientras que la IA especializada se refiere a la capacidad de un sistema para realizar una tarea específica.
+    -   La distinción entre IA general y IA especializada se centra en el alcance de las tareas que puede abordar un sistema de inteligencia artificial. La IA general se refiere a la capacidad de un sistema para realizar cualquier tarea que un humano pueda realizar, mientras que la IA especializada se refiere a la capacidad de un sistema para realizar una tarea específica.
 
-- Es importante destacar que la IA general todavía se encuentra en una etapa de investigación y desarrollo, y su creación representa un desafío técnico y conceptual significativo. Mientras tanto, la mayoría de los sistemas de inteligencia artificial en uso son especializados y están diseñados para tareas específicas, lo que implica la necesidad de programarlos o entrenarlos de manera específica para cada función deseada.
+-   Es importante destacar que la IA general todavía se encuentra en una etapa de investigación y desarrollo, y su creación representa un desafío técnico y conceptual significativo. Mientras tanto, la mayoría de los sistemas de inteligencia artificial en uso son especializados y están diseñados para tareas específicas, lo que implica la necesidad de programarlos o entrenarlos de manera específica para cada función deseada.
 :::
 
 ## Principales enfoques y técnicas de IA.
@@ -98,31 +98,29 @@ editor_options:
 ## Ejemplo de etapas del desarrollo de la IA.
 
 ::: incremental
+-   Regresión lineal: Predicción de valores numéricos.
 
-- Regresión lineal: Predicción de valores numéricos.
+-   Regresión logística: Clasificación binaria.
 
-- Regresión logística: Clasificación binaria.
+-   K-Nearest Neighbors (KNN): Clasificación y regresión basada en vecinos cercanos.
 
-- K-Nearest Neighbors (KNN): Clasificación y regresión basada en vecinos cercanos.
+-   Máquinas de Soporte Vectorial (SVM): Clasificación y regresión.
 
-- Máquinas de Soporte Vectorial (SVM): Clasificación y regresión.
+-   Árboles de Decisión: Clasificación y regresión.
 
-- Árboles de Decisión: Clasificación y regresión.
+-   Random Forest: Clasificación y regresión basada en conjuntos de árboles.
 
-- Random Forest: Clasificación y regresión basada en conjuntos de árboles.
+-   Naive Bayes: Clasificación y filtrado de spam.
 
-- Naive Bayes: Clasificación y filtrado de spam.
+-   Redes Neuronales: Reconocimiento de imágenes, procesamiento del lenguaje natural, etc.
 
-- Redes Neuronales: Reconocimiento de imágenes, procesamiento del lenguaje natural, etc.
+-   K-Means: Agrupación de datos.
 
-- K-Means: Agrupación de datos.
+-   Análisis de Componentes Principales (PCA): Reducción de dimensionalidad.
 
-- Análisis de Componentes Principales (PCA): Reducción de dimensionalidad.
+-   Aprendizaje por Refuerzo: Juegos, control de robots, optimización.
 
-- Aprendizaje por Refuerzo: Juegos, control de robots, optimización.
-
-- Gradient Boosting: Clasificación y regresión basada en árboles.
-
+-   Gradient Boosting: Clasificación y regresión basada en árboles.
 :::
 
 ## Desarrollo de una actividad práctica.
@@ -132,8 +130,7 @@ Crearemos un modelo simple de clasificación de imágenes utilizando redes neuro
 
 1.  Abre Google Colab (https://colab.research.google.com/).
 
-2.  Crea un nuevo cuaderno ("Notebook") y nómbralo según tu preferencia.
-[Ejemplo Práctico](https://colab.research.google.com/drive/1taWPDuotLeVdK9yh0K-GGwefDWyGI9JY?usp=sharing)
+2.  Crea un nuevo cuaderno ("Notebook") y nómbralo según tu preferencia. [Ejemplo Práctico](https://colab.research.google.com/drive/1taWPDuotLeVdK9yh0K-GGwefDWyGI9JY?usp=sharing)
 :::
 
 ## Conclusión
